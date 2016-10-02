@@ -1,0 +1,2 @@
+# CizgiTech
+Bu CizgiTech Projesi
